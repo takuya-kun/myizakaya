@@ -1,24 +1,49 @@
-# README
+# アプリケーション名
+my居酒屋
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要
+個人経営の居酒屋などで、様々な業務を管理する。
 
-Things you may want to cover:
+# URL
+未実装
 
-* Ruby version
+# テスト用アカウント
+未実装
 
-* System dependencies
+# 利用方法
+- サイトにアクセスし、店舗毎にログインして機能を使用する。
 
-* Configuration
+# 目指した課題解決
+個人経営の飲食店で行われる様々な事柄を効率化できる様にする。
+キャッシュレジスターを使用していない店舗では会計に手こずる事や、
+手書きでの注文、言い値による値段の変化、創作料理の値段など
+イレギュラーの多い内容に対応した管理システムをつくる。
 
-* Database creation
+# 洗い出した要件
+## 会計
+- 客席毎に会計を管理出来る様にする。
+## メニュー管理
+- 取り扱っているメニューを管理する。
+## 売上集計
+- 売上を記録する。
+- メニュー毎に記録を行う。
+## ボトル管理
+- お客さんがキープしているボトルを管理する。
+## 客席管理
+- 店舗内の客席を管理する。
+## 予約管理
+- 席やお持ち帰りメニューの予約を管理する。
+## シフト管理
+- 従業員のシフトを管理する。
 
-* Database initialization
+# 実装した機能についての画像やGIF及びその説明
+未実装
 
-* How to run the test suite
+# 実装予定の機能
+順次実装予定
 
-* Services (job queues, cache servers, search engines, etc.)
+# データベース設計
+未実施
 
-* Deployment instructions
-
-* ...
+# ローカルでの動作方法
+未実施
